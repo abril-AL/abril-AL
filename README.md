@@ -9,6 +9,7 @@
 
 - 📫 How to reach me:
   - email: abril124@ucla.edu
+  - or take a look at my [resume](https://github.com/abril-AL/Markdown-Resume/blob/main/resume.pdf)
 
 
 
