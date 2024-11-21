@@ -1,11 +1,12 @@
 # Welcome
 
 - Hello, I’m **@abril-AL**, I go by Abril or April 
-- I’m currently a third year undergraduate, studying computer science at UCLA 🐻
+- I’m currently a fourth year undergraduate, studying computer science at UCLA 🐻
 
 - 💭 My interests include:
   - 👩‍💻 Computer Architecture
-  - 🧠 Signal processing / BCI
+  - 🧠 Brain Computer Interfaces
+  - Signal processing
 - 👾 My Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
