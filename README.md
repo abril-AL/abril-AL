@@ -31,3 +31,6 @@
     
 - 📫 How to reach me:
   - email: abril124@ucla.edu
+ 
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUyMms3c2d6b3JzamQ0eXpjMTl0Nm1xMGN0N3ZjN3JkbHVtNGdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
