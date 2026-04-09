@@ -1,11 +1,12 @@
 # Welcome
 
 - Hello, I’m **@abril-AL**, I go by Abril or April 
-- I’m currently a fourth year undergraduate, studying computer science at UCLA 🐻
+- I just got my bachelors in computer science from UCLA 🐻
 
 - 💭 My interests include:
-  - 👩‍💻 Computer Architecture
-  - 🧠 Brain Computer Interfaces
+  - Artificial Intelligence
+  - Machine Learning
+  - Brain Computer Interfaces
   - Signal processing
 - 👾 My Skills
 
@@ -29,8 +30,10 @@
 <a align="left" href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
   <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a>
  
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUyMms3c2d6b3JzamQ0eXpjMTl0Nm1xMGN0N3ZjN3JkbHVtNGdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 📫 How to reach me:
   - email: abril124@ucla.edu
+  - linkedIn: http://linkedin.com/in/abril-aguilar-lopez/
+ 
+Other Work
+- spaceHey: https://spacehey.com/abrilzies
 
